@@ -32,7 +32,7 @@
 #include "vxlan.h"
 
 #define THREAD_NUM_MAX      64
-#define NETIF_PORT_MAX      4
+#define NETIF_PORT_MAX      32
 #define PCI_LEN             12
 
 #define NB_RXD              4096
